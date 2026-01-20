@@ -7,3 +7,7 @@ How does it work?
 It just fetches DeployHistory.txt from Roblox "setup.rbxcdn.com", simple as that.
 
 See `main.cpp` for usage examples.
+
+
+> [!WARNING]  
+> This is Windows only!
