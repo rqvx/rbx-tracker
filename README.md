@@ -1,6 +1,9 @@
 ### rbx-tracker
 Lightweight header-only Roblox update tracker.
 
+> [!CAUTION]
+> I just noticed it's a bit broken, I will fix it once I have time :D
+
 Credits to: https://github.com/YuB-W/YuB-X-Hyperion_Updateds
 
 How does it work?
