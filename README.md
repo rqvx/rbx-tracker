@@ -12,13 +12,10 @@ See `main.cpp` for usage examples.
 > This is Windows only!
 
 ### Changelog
-
-Version 1.1:
-
-Fixed some issues
-
-It now checks for previous version
-
-Updated usage example (see `main.cpp`)
-
-Improved formatting
+### Version 1.1:
+```
+- Fixed some issues
+- It now checks for previous version
+- Updated usage example (see `main.cpp`)
+- Improved formatting
+```
